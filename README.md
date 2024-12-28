@@ -1,4 +1,4 @@
-# Tracer
+# Defi Tracer
 
 Welcome to **Tracer**, a comprehensive tool for analyzing decentralized finance (DeFi) projects across all blockchain ecosystems. Our mission is to empower users with actionable insights, enabling them to make informed investment decisions and capitalize on the lucrative opportunities in the DeFi space.
 
